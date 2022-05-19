@@ -1,0 +1,35 @@
+.abc {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.login-title {
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Montserrat';
+    padding-top: 10px;
+    color: #C7364D;
+    margin: 0px 50px 0px 0px;
+    align-items: center;
+}
+
+.submit-btn{
+    width: 200px;
+    height: 40px;
+    color: #e9e1e2;
+    position: absolute;
+    right: "10px";
+    background-color: #C7364D;
+    border: #C7364D;
+    border-radius: 10px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    }

@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.background-img{
+  background-image: url(./Assets/Background.png);
+  background-size: cover;
+  overflow: hidden;
+  height: 100%;
+}
